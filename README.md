@@ -1,12 +1,10 @@
-### Hi there 👋
-
-
+### Hello 👋
 
 ### :woman_technologist: About Me:
 
 I am a recently trained Full Stack Developer, having completed Academy's intensive graduate training scheme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am a creative, divergent thinker with a mutlidisciplinary mindset that I bring to my work in software. 
 
-I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and PyData for Data Science and inspired me to pivot into tech and learn to code. I've also worked as a designer, including working as design and branding lead for an early stage start-up. 
+I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and PyData for Data Science and inspired me to pivot into tech and learn to code. I've also worked as a designer, including working as design and branding lead for an early stage start-up, and project managed the creation of [this](www.cutbox.co.uk) website.
 
 In my free time I design and make crochet clothes 🧶, and I’m currently working on a crochet tool app that helps to simplify the process of creating unique and sustainable clothing.
 
@@ -31,7 +29,18 @@ In my free time I design and make crochet clothes 🧶, and I’m currently work
 ### My Projects 
 
 [Who Let the Dogs App](https://saj-zeri-patelman-dogvotes.netlify.app/)
+An app that lets users vote on their favourite dog breeds, sourced from [Dog API](https://dog.ceo/dog-api/)
+GitHub Repos:
+ * [Frontend]()
+ * [Backend]()
 
+[TV Shows](https://tv-shows-fola-az.netlify.app/)
+A TV show listing app, with show selector, episode search and episode descriptions. TV show data sourced from [TVMaze.com](https://www.tvmaze.com/).
+GitHub repos:
+* [Frontend]()
+* [Backend]()
+
+[Academy Resouce Recommendations App]
 
 
 
