@@ -52,7 +52,7 @@ Cover and interior design for an illustrated poetry book made using Adobe Creati
 
 Cutbox Barbers [Instagram](https://www.instagram.com/cutboxbarbers/)
 
-Raffaella Barker [10 books that...](https://www.instagram.com/stories/highlights/18195612919139199/?hl=en)
+Raffaella Barker Instagram [10 books that...](https://www.instagram.com/stories/highlights/18195612919139199/?hl=en)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azjtemir/">
