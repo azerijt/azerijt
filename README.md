@@ -4,9 +4,9 @@
 
 I am a recently trained Full Stack Developer, having completed Academy's intensive graduate training scheme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am a creative, divergent thinker with a mutlidisciplinary mindset that I bring to my work in software. 
 
-I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and PyData for Data Science and inspired me to pivot into tech and learn to code. I've also worked as a designer, including working as design and branding lead for an early stage start-up, and project managed the creation of [this](www.cutbox.co.uk) website.
+I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and PyData for Data Science and inspired me to pivot into tech and learn to code. I've also worked as a designer, including working as design and branding lead for an early stage start-up, and project managed the creation of [this](https://cutbox.co.uk/) website.
 
-In my free time I design and make crochet clothes 🧶, and I’m currently working on a crochet tool app that helps to simplify the process of creating unique and sustainable clothing.
+In my free time I design and make [crochet clothes](https://www.instagram.com/originalzericrochet/?hl=en) 🧶, and I’m currently working on a crochet tool app that helps to simplify the process of creating unique and sustainable clothing.
 
 ### Languages & Tools:
 <div>
@@ -27,7 +27,7 @@ In my free time I design and make crochet clothes 🧶, and I’m currently work
 </div>
 
 ### My Projects 
-
+#### Software Dev
 [Who Let the Dogs App](https://saj-zeri-patelman-dogvotes.netlify.app/)
 An app that lets users vote on their favourite dog breeds, sourced from [Dog API](https://dog.ceo/dog-api/)
 GitHub Repos:
@@ -40,10 +40,19 @@ GitHub repos:
 * [Frontend]()
 * [Backend]()
 
-[Academy Resouce Recommendations App]
+[Academy Resouce Recommendations App](https://creative-crumble-9b3f47.netlify.app/)
+WIP, a place to store recommended materials for the Academy training program
+GitHub repos:
+* [Frontend]()
+* [Backend]()
 
+#### Design 
+[Cantos for the Ultraviolet](https://www.amazon.co.uk/Cantos-Ultraviolet-Elizabeth-Bazeley/dp/1399908863/ref=sr_1_1?crid=38K1RMJBFXGWK&keywords=cantos+for+the+ultraviolet&qid=1652808741&sprefix=cantos+for+the+ultraviolet%2Caps%2C61&sr=8-1)
+Cover and interior design for an illustrated poetry book made using Adobe Creative Cloud applications (InDesign, Illustrator, Photoshop)
 
+Cutbox Barbers [Instagram](https://www.instagram.com/cutboxbarbers/)
 
+Raffaella Barker [10 books that...](https://www.instagram.com/stories/highlights/18195612919139199/?hl=en)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azjtemir/">
