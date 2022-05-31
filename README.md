@@ -27,30 +27,44 @@ In my free time I design and make [crochet clothes](https://www.instagram.com/or
 </div>
 
 ### My Projects 
-#### Software Dev
+#### Full Stack PERN Apps
 [Who Let the Dogs App](https://saj-zeri-patelman-dogvotes.netlify.app/)
 An app that lets users vote on their favourite dog breeds, sourced from [Dog API](https://dog.ceo/dog-api/)
 GitHub Repos:
- * [Frontend]()
- * [Backend]()
-
-[TV Shows](https://tv-shows-fola-az.netlify.app/)
-A TV show listing app, with show selector, episode search and episode descriptions. TV show data sourced from [TVMaze.com](https://www.tvmaze.com/).
-GitHub repos:
-* [Frontend]()
-* [Backend]()
+ * [Frontend](https://github.com/sajsiv/DogBreedFrontend)
+ * [Backend](https://github.com/roshnihpatel/Dog-Breed-Voting-Backend)
 
 [Academy Resouce Recommendations App](https://creative-crumble-9b3f47.netlify.app/)
 WIP, a place to store recommended materials for the Academy training program
 GitHub repos:
-* [Frontend]()
-* [Backend]()
+* [Frontend](https://github.com/JacobCutts13/za-an-ab-ja-catalog-backend)
+* [Backend](https://github.com/JacobCutts13/za-an-ab-ja-catalog-frontend)
+
+[Pastebin App]()
+Full-stack old school pastebin app
+GitHub repos:
+* [Frontend](https://github.com/matbatten/Mat-AnnaZeri-Pastebin-Frontend)
+* [Backend](https://github.com/azerijt/Mat-AnnaZeri-Pastebin-App)
+
+#### React Apps
+
+[TV Shows](https://tv-shows-fola-az.netlify.app/)
+A TV show listing app, with show selector, episode search and episode descriptions. TV show data sourced from [TVMaze.com](https://www.tvmaze.com/).
+GitHub repos:
+* [Frontend](https://github.com/azerijt/tv-shows)
+
+[Baby Names](https://baby-names-picker-site.netlify.app/)
+Choose your favourite baby names
+GitHub repos:
+* [Frontend](https://github.com/azerijt/react-baby-names)
+
+
 
 #### Design 
 [Cantos for the Ultraviolet](https://www.amazon.co.uk/Cantos-Ultraviolet-Elizabeth-Bazeley/dp/1399908863/ref=sr_1_1?crid=38K1RMJBFXGWK&keywords=cantos+for+the+ultraviolet&qid=1652808741&sprefix=cantos+for+the+ultraviolet%2Caps%2C61&sr=8-1)
 Cover and interior design for an illustrated poetry book made using Adobe Creative Cloud applications (InDesign, Illustrator, Photoshop)
 
-Cutbox Barbers [Instagram](https://www.instagram.com/cutboxbarbers/)
+Cutbox Barbers [Instagram](https://www.instagram.com/cutboxbarbers/), [Website Homepage](https://cutbox.co.uk/)
 
 Raffaella Barker Instagram [10 books that...](https://www.instagram.com/stories/highlights/18195612919139199/?hl=en)
 
