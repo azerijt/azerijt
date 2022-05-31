@@ -30,18 +30,21 @@ In my free time I design and make [crochet clothes](https://www.instagram.com/or
 #### Full Stack PERN Apps
 [Who Let the Dogs App](https://saj-zeri-patelman-dogvotes.netlify.app/)
 An app that lets users vote on their favourite dog breeds, sourced from [Dog API](https://dog.ceo/dog-api/)
+
 GitHub Repos:
  * [Frontend](https://github.com/sajsiv/DogBreedFrontend)
  * [Backend](https://github.com/roshnihpatel/Dog-Breed-Voting-Backend)
 
 [Academy Resouce Recommendations App](https://creative-crumble-9b3f47.netlify.app/)
 WIP, a place to store recommended materials for the Academy training program
+
 GitHub repos:
 * [Frontend](https://github.com/JacobCutts13/za-an-ab-ja-catalog-backend)
 * [Backend](https://github.com/JacobCutts13/za-an-ab-ja-catalog-frontend)
 
 [Pastebin App]()
 Full-stack old school pastebin app
+
 GitHub repos:
 * [Frontend](https://github.com/matbatten/Mat-AnnaZeri-Pastebin-Frontend)
 * [Backend](https://github.com/azerijt/Mat-AnnaZeri-Pastebin-App)
@@ -50,11 +53,13 @@ GitHub repos:
 
 [TV Shows](https://tv-shows-fola-az.netlify.app/)
 A TV show listing app, with show selector, episode search and episode descriptions. TV show data sourced from [TVMaze.com](https://www.tvmaze.com/).
+
 GitHub repos:
 * [Frontend](https://github.com/azerijt/tv-shows)
 
 [Baby Names](https://baby-names-picker-site.netlify.app/)
 Choose your favourite baby names
+
 GitHub repos:
 * [Frontend](https://github.com/azerijt/react-baby-names)
 
