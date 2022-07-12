@@ -63,6 +63,9 @@ Choose your favourite baby names
 GitHub repos:
 * [Frontend](https://github.com/azerijt/react-baby-names)
 
+#### Python - Data Science / Machine Learning
+[Sentiment Analysis Python] (https://github.com/azerijt/sentiment-analysis-python)
+Compares Vectorizers, models and hyperparamter tuning to create a sentiment analysis model using SciKit Learn, Pandas, Numpy.
 
 
 #### Design 
