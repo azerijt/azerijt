@@ -64,8 +64,14 @@ GitHub repos:
 * [Frontend](https://github.com/azerijt/react-baby-names)
 
 #### Python - Data Science / Machine Learning
-[Sentiment Analysis Python] (https://github.com/azerijt/sentiment-analysis-python)
+[Sentiment Analysis Python](https://github.com/azerijt/sentiment-analysis-python)
 Compares Vectorizers, models and hyperparamter tuning to create a sentiment analysis model using SciKit Learn, Pandas, Numpy.
+
+[Chess Grandmaster Data Analysis](https://github.com/azerijt/data-science-chess-grandmasters)
+Analysis of FIDE chess rankings dataset using Numpy, Pandas and MatPlotLib
+
+[Colour Naming Analysis](https://github.com/azerijt/data-science-colour)
+Measuring colour difference through Euclidean distance of RGB values, comparing colour terms using Pandas, Numpy and MatPlotLib.
 
 
 #### Design 
