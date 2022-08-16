@@ -27,6 +27,11 @@ In my free time I design and make [crochet clothes](https://www.instagram.com/or
 </div>
 
 ### My Projects 
+#### Personal Projects
+[Crochet Calculator](https://crochet-calculator.netlify.app/)
+A WIP crochet tool app, currently works to calculate custom patterns for square crochet designs. Will expand to work for increases and other pattern shapes to make customisable patterns for individual measurements
+[GitHub Repo](https://github.com/azerijt/crochet-app)
+
 #### Full Stack PERN Apps
 [Who Let the Dogs App](https://saj-zeri-patelman-dogvotes.netlify.app/)
 An app that lets users vote on their favourite dog breeds, sourced from [Dog API](https://dog.ceo/dog-api/)
