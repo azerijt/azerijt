@@ -4,7 +4,7 @@
 
 I am a recently trained Full Stack Developer, having completed Academy's intensive graduate training scheme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am a creative, divergent problem solver with a mutlidisciplinary mindset that I bring to my work in software. 
 
-I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and PyData for Data Science and inspired me to pivot into tech and learn to code. I've also worked as a designer, including working as design and branding lead for an early stage start-up, and project managed the creation of [this](https://cutbox.co.uk/) website.
+I have a Master's Degree in Philosophy & Artificial Intelligence, which first introduced me to Python and inspired me to pivot into tech and learn to code. 
 
 In my free time I design and make [crochet clothes](https://www.instagram.com/originalzericrochet/?hl=en) 🧶, and I’m currently working on a crochet tool app that helps to simplify the process of creating unique and sustainable clothing.
 
